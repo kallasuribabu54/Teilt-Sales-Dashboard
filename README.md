@@ -1,5 +1,6 @@
 # Teilt-Sales-Dashboard
-# 1. Teilt Sales Dashboard: A Dynamic Interactive Sales Dashboard for Teilt Company | Power Bi | Data Analysis Project
+
+1. Teilt Sales Dashboard: A Dynamic Interactive Sales Dashboard for Teilt Company | Power Bi | Data Analysis Project
 
 
 2. 📊 Project Overview
