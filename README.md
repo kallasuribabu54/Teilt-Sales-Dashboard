@@ -49,7 +49,8 @@ Elevation Stats (Grouped Bar Chart) Compare the highest and lowest elevation poi
 Lift Types by Resort (Stacked Bar Chart) Stacked bar chart showing: Gondola lifts Chair lifts Surface lifts Total lifts This helps users gauge resort infrastructure and capacity.
 • Business Impact & Insights Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain). Strategic Expansion: Resort developers can spot underdeveloped regions with high potential. Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty. Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
 
-6. Snapshot of the Dashboard - ![Uploading Sales Dashboard Snapshot.png…]()
+6. Snapshot of the Dashboard - <img width="1250" height="703" alt="Sales Dashboard Snapshot" src="https://github.com/user-attachments/assets/a3d8cdaa-6ceb-4f23-a585-182153021f66" />
+
 
 
 ## Problem Statement
