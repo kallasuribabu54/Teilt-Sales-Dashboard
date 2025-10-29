@@ -50,3 +50,42 @@ Lift Types by Resort (Stacked Bar Chart) Stacked bar chart showing: Gondola lift
 • Business Impact & Insights Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain). Strategic Expansion: Resort developers can spot underdeveloped regions with high potential. Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty. Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
 
 6. Snapshot of the Dashboard - ![Alt text](https://github.com/kallasuribabu54/Teilt-Sales-Dashboard/blob/main/Sales%20Dashboard%20Snapshot.png).
+
+## Problem Statement
+
+Teilt, a business with operations expanding across multiple countries, was struggling with the increasing complexity of its operations. Despite their rapid growth, the company was relying heavily on Excel for data analysis, which was time-consuming, more error's, and lacked scalability. This caused inefficiencies in decision-making and led to significant financial losses due to the inability to extract meaningful insights from their data in real time.
+
+
+### Objectives
+
+The primary objective of this project was to transition Teilt from its outdated Excel-based data analysis process to a more efficient and scalable solution: Power BI. The goal was to develop an interactive, dynamic, and integrated Power BI dashboard capable of providing real-time insights, improving operational efficiency, and empowering decision-makers at all levels of the business with actionable data.
+
+## Key Features & Objectives
+
+1-Finance View : Displays Profit & Loss (P&L) statements for specific customers, products, and countries over any given time period. Allows for the detailed analysis of financial performance, including revenue, expenses, and profitability metrics.
+
+
+![Image](https://github.com/dharmasatyatejakolla/Business-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Finance%20View.png)
+
+
+2- Sales View : Offers a detailed performance analysis based on key metrics such as Net Sales, Gross Margin, and Profitability. Provides a Growth Matrix for assessing sales performance and profitability of individual customers, products, and regions.
+
+
+![Image](https://github.com/dharmasatyatejakolla/Business-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Sales%20View.png)
+
+        
+3- Marketing View : Evaluates the performance of products in the market, focusing on metrics like Net Sales and Gross Margin. Visualizes the profitability and growth potential of products through an interactive matrix, helping prioritize marketing efforts.
+
+ 
+![Image](https://github.com/dharmasatyatejakolla/Business-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Marketing%20View.png)
+
+
+4- Supply Chain View : Tracks key metrics such as Forecast Accuracy, Net Error, and Risk Profiles for different segments, categories, and customers. Assists in identifying areas of improvement for supply chain optimization and risk management.
+
+ ![Image](https://github.com/dharmasatyatejakolla/B<img width="133" height="132" alt="Index" src="https://github.com/user-attachments/assets/0d1589a7-efe2-4f69-b566-ceb59746f1bb" />
+usiness-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Supply%20Chain%20View.png)
+ 
+
+5- Executive View : A high-level, consolidated dashboard that presents key insights across all business areas, providing executives with a comprehensive overview of performance and operational health.
+
+ ![Image](https://github.com/dharmasatyatejakolla/Business-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Executive%20View.png)
