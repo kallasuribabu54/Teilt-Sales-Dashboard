@@ -65,7 +65,7 @@ The primary objective of this project was to transition Teilt from its outdated 
 1-Finance View : Displays Profit & Loss (P&L) statements for specific customers, products, and countries over any given time period. Allows for the detailed analysis of financial performance, including revenue, expenses, and profitability metrics.
 
 
-![Image](https://github.com/dharmasatyatejakolla/Business-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Finance%20View.png)
+![Image]<img width="1137" height="632" alt="Finance View Snapshot" src="https://github.com/user-attachments/assets/107359b2-f8c8-478e-83b0-eb7aaee78410" />
 
 
 2- Sales View : Offers a detailed performance analysis based on key metrics such as Net Sales, Gross Margin, and Profitability. Provides a Growth Matrix for assessing sales performance and profitability of individual customers, products, and regions.
@@ -77,7 +77,8 @@ The primary objective of this project was to transition Teilt from its outdated 
 3- Marketing View : Evaluates the performance of products in the market, focusing on metrics like Net Sales and Gross Margin. Visualizes the profitability and growth potential of products through an interactive matrix, helping prioritize marketing efforts.
 
  
-![Image](https://github.com/dharmasatyatejakolla/Business-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Marketing%20View.png)
+![Image](<img width="1137" height="632" alt="Finance View Snapshot" src="https://github.com/user-attachments/assets/6a40133b-127c-4be7-bd8c-0eb7007197d9" />
+https://github.com/dharmasatyatejakolla/Business-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Marketing%20View.png)
 
 
 4- Supply Chain View : Tracks key metrics such as Forecast Accuracy, Net Error, and Risk Profiles for different segments, categories, and customers. Assists in identifying areas of improvement for supply chain optimization and risk management.
