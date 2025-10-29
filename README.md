@@ -67,28 +67,29 @@ The primary objective of this project was to transition Teilt from its outdated 
 1-Finance View : Displays Profit & Loss (P&L) statements for specific customers, products, and countries over any given time period. Allows for the detailed analysis of financial performance, including revenue, expenses, and profitability metrics.
 
 
-![Image]<img width="1137" height="632" alt="Finance View Snapshot" src="https://github.com/user-attachments/assets/107359b2-f8c8-478e-83b0-eb7aaee78410" />
+<img width="1137" height="632" alt="Finance View Snapshot" src="https://github.com/user-attachments/assets/107359b2-f8c8-478e-83b0-eb7aaee78410" />
 
 
 2- Sales View : Offers a detailed performance analysis based on key metrics such as Net Sales, Gross Margin, and Profitability. Provides a Growth Matrix for assessing sales performance and profitability of individual customers, products, and regions.
 
 
-![Image](https://github.com/dharmasatyatejakolla/Business-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Sales%20View.png)
+<img width="1143" height="639" alt="Sales View Dashboard" src="https://github.com/user-attachments/assets/c40a8681-25d8-494d-a1e5-1adb63f4ea77" />
+
 
         
 3- Marketing View : Evaluates the performance of products in the market, focusing on metrics like Net Sales and Gross Margin. Visualizes the profitability and growth potential of products through an interactive matrix, helping prioritize marketing efforts.
 
- 
-![Image](<img width="1137" height="632" alt="Finance View Snapshot" src="https://github.com/user-attachments/assets/6a40133b-127c-4be7-bd8c-0eb7007197d9" />
-https://github.com/dharmasatyatejakolla/Business-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Marketing%20View.png)
+ <img width="1138" height="638" alt="Marketing View Snapshot" src="https://github.com/user-attachments/assets/3023e1d6-99e8-4269-aa10-3a8abbbd4f35" />
+
 
 
 4- Supply Chain View : Tracks key metrics such as Forecast Accuracy, Net Error, and Risk Profiles for different segments, categories, and customers. Assists in identifying areas of improvement for supply chain optimization and risk management.
 
- ![Image](https://github.com/dharmasatyatejakolla/B<img width="133" height="132" alt="Index" src="https://github.com/user-attachments/assets/0d1589a7-efe2-4f69-b566-ceb59746f1bb" />
-usiness-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Supply%20Chain%20View.png)
+<img width="1135" height="631" alt="Supply Chain Snapshot" src="https://github.com/user-attachments/assets/24a93028-2d5e-4305-88a7-e81fd5284ef8" />
+
  
 
 5- Executive View : A high-level, consolidated dashboard that presents key insights across all business areas, providing executives with a comprehensive overview of performance and operational health.
 
- ![Image](https://github.com/dharmasatyatejakolla/Business-Insights-360/blob/8f821f5a211b131aad41a7bae5d643817dc81932/Executive%20View.png)
+<img width="1141" height="640" alt="Executive View Snapshot" src="https://github.com/user-attachments/assets/0f5018cf-b050-4346-88a8-cf1595e39a49" />
+
