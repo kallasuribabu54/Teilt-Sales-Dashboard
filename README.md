@@ -93,3 +93,12 @@ The primary objective of this project was to transition Teilt from its outdated 
 
 <img width="1141" height="640" alt="Executive View Snapshot" src="https://github.com/user-attachments/assets/0f5018cf-b050-4346-88a8-cf1595e39a49" />
 
+# Snowflakes Scheme Snapshot (Power BI Desktop)
+
+<img width="585" height="602" alt="Teilt Model Snapshot" src="https://github.com/user-attachments/assets/6601b680-8029-4489-b857-8734acd8ec03" />
+
+## Conclusion
+
+This project has significantly enhanced my Power BI and data analytics skills, allowing me to build a comprehensive business intelligence solution for Teilt. It showcases the power of Power BI to turn raw data into insightful, real-time visualizations that can guide business decisions across finance, sales, marketing,and operations.
+
+The transition from Excel-based analysis to a more sophisticated Power BI solution has greatly improved AtliQ's ability to analyze data efficiently and make informed decisions that drive business growth.
