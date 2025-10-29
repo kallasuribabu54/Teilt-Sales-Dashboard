@@ -8,23 +8,23 @@
 This project presents an interactive Sales Dashboard created for TEILT Company to analyze and monitor key business metrics such as revenue, profit, and regional performance.
 It was developed using Power BI, Microsoft Excel, SQL, focusing on data cleaning, transformation, and visualization to support data-driven decision-making.
 
-3. Tech Stack
+# ⚙Tech Stack
 The key technologies used to build this dashboard.
 
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
 • 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
-• ⚙ Tools - Excel / CSV – for raw data
+• ⚙  Tools - Excel / CSV – for raw data
 
-4. 📂 Dataset
+# 📂 Dataset
 The dataset includes the following key columns:
 
 Order Date, Region, Country, Category, Sub-Category, Sales, Profit, Quantity, Discount.
 
 Note: Data was cleaned and processed in Power Query to ensure accuracy.
 
-5. 🧩 Features / Highlights
+# 🧩 Features / Highlights
 
 Business Problem:
 TEILT Company struggled to track regional and product-level sales performance efficiently, making it hard to identify top-performing areas and optimize strategies.
