@@ -1,9 +1,9 @@
 # Teilt-Sales-Dashboard
 
-1. Teilt Sales Dashboard: A Dynamic Interactive Sales Dashboard for Teilt Company | Power Bi | Data Analysis Project
+### Teilt Sales Dashboard: A Dynamic Interactive Sales Dashboard for Teilt Company | Power Bi | Data Analysis Project
 
 
-2. 📊 Project Overview
+### 📊 Project Overview
 
 This project presents an interactive Sales Dashboard created for TEILT Company to analyze and monitor key business metrics such as revenue, profit, and regional performance.
 It was developed using Power BI, Microsoft Excel, SQL, focusing on data cleaning, transformation, and visualization to support data-driven decision-making.
